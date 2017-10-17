@@ -12928,10 +12928,6 @@ var applyMiddlewares = function applyMiddlewares(store) {
 //   console.log(store.getState());
 // };
 
-// const addLoggingToDispatch = store => next => action => {
-//   // your code here
-// }
-
 /***/ }),
 /* 148 */
 /***/ (function(module, exports, __webpack_require__) {

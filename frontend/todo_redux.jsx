@@ -39,7 +39,3 @@ const applyMiddlewares = (store, ...middlewares) => {
 //   next(action);
 //   console.log(store.getState());
 // };
-
-// const addLoggingToDispatch = store => next => action => {
-//   // your code here
-// }
